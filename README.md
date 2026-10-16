@@ -23,22 +23,6 @@ Our **College AI Assistant** is a multilingual conversational bot that solves th
 
 -----
 
-## 🎥 Demo
-
-Here's a quick look at the chatbot in action:
-
-**Website Integration:**
-
-*(Here, you should insert a GIF showing a user interacting with the chatbot on your college website. Record your screen while asking a few questions.)*
-`![Website Demo GIF](link-to-your-website-demo.gif)`
-
-**Telegram Integration:**
-
-*(Insert another GIF showing a similar interaction on the Telegram mobile app.)*
-`![Telegram Demo GIF](link-to-your-telegram-demo.gif)`
-
------
-
 ## 🛠️ Tech Stack
 
 This project is built with a modern and reliable technology stack:
